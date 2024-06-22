@@ -39,24 +39,24 @@ Fast forward to today, I moved to the United States and graduated college, Class
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Project 1</h3>
+				<h3 align="center">College Flow</h3>
 				<div align="center">  
-					<a href='https://google.com' target="_blank">
-						<img src="https://github.com/codingphasedotcom/codingphasedotcom/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
+					<a href='https://college-flow.onrender.com/' target="_blank">
+						<img src="https://ik.imagekit.io/engineerbf24/portfolio/Screenshot%202024-06-12%20at%203.44.10%E2%80%AFPM.jpg?updatedAt=1718221518484" alt="college flow app" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
+						<a href="https://github.com/saliftankoano/college-flow" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://google.com" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>HTML, Taiwind, Javascript, React, Firebase & Amazon S3 </strong></p>
           <p>
-						Description goes here
+						College Flow connects college clients with talented student freelancers offering services in AI, web development, design, and more. Get quality work done by skilled students.
 					</p>
 				</div>
 			</td>
