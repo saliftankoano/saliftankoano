@@ -72,15 +72,12 @@ Fast forward to today, I moved to the United States and graduated college, Class
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://salammodesty.myshopify.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
 					 <p><strong>Shopify</strong></p>
-					<p>Islamic Women clothing store. Password: salam</p>
+					<p>Salam Modesty offers elegant clothing for Muslim women, combining modest fashion with modern trends. Shop stylish hijabs, abayas, and more, crafted for both comfort and beauty.Password: salam</p>
 				</div>
         </tr>
 	    <tr>
@@ -93,15 +90,12 @@ Fast forward to today, I moved to the United States and graduated college, Class
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://glen-studio.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
                     <p><strong>Wordpress</strong></p>
-		    <p>Built with wordpress, the websites features blogs and photos from the studio.</p>
+		    <p>Glen Studio captures your most precious moments with professional photography services. Specializing in weddings, portraits, and events, we deliver stunning, high-quality images you'll cherish forever.</p>
                 </div>
             </td>
             <td width="50%">
