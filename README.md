@@ -3,7 +3,12 @@
 </div>
 <h1 align="center">Hi 👋, I'm Salif Tankoano</h1>
 <h3 align="center">A Software developer from New York City</h3>
-<h4 align="center">Hi my name is Salif Tankoano a web developer based out of NYC. I have experience working on the front-end and back-end. I am enjoy learning new things and adapt very quickly to new environments. </h4>
+<h4 align="center">At 16, while browsing my favorite blog WikiHow; I felt a sense of gratitude for the ability to use the platform to learn various subjects with the limited number of megabytes I bought on my cellphone plan. And I wondered: How are these websites built? 
+I went into a rabbit hole and found my passion.
+
+Fast forward to today, I moved to the United States and graduated college, Class of May 2024. And I’m very excited to jumpstart my career and build fantastic software with a great organization.
+
+</h4>
 
 <hr>
 
@@ -15,15 +20,11 @@
                 <br>
                     <div align="center" >  
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="css3" width="75" height="75"/>
+			          <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3 logo" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress logo" width="75" height="75"/>
                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
                     </div>
 </div>
