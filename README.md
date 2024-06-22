@@ -136,7 +136,7 @@ Fast forward to today, I moved to the United States and graduated college, Class
 <h2 align="center">Contact Me</h2>
 <p align="center">
 	&nbsp&nbsp&nbsp
-	<a href="https://twitter.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+	<a href="https://x.com/salifcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Salif twitter" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://www.linkedin.com/in/salif-tankoano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin icon" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://www.youtube.com/channel/UCH-koPfGKMVgDcCWDSveLTQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube logo" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 
