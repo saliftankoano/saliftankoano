@@ -148,12 +148,12 @@ Fast forward to today, I moved to the United States and graduated college, Class
 <div align="center" margin="100px 0 0 0">
 
 <h2 align="center">Stats</h2>
-<h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
+<h6 style="color:red">These stats are only for public repos it doesn't include private stats on projects for previous employers and clients.</h6>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingphasedotcom&show_icons=true&locale=en&layout=compact" alt="codingphasedotcom" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saliftankoano&show_icons=true&locale=en&layout=compact" alt="Salif stats 1" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingphasedotcom&show_icons=true&locale=en" alt="codingphasedotcom" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saliftankoano&show_icons=true&locale=en" alt="Salif stats 2" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingphasedotcom&" alt="codingphasedotcom" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saliftankoano&" alt="Salif stats 3" /></p>
 </div>
 <br>
