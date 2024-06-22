@@ -76,8 +76,8 @@ Fast forward to today, I moved to the United States and graduated college, Class
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>Shopify</strong></p>
-					<p>Salam Modesty offers elegant clothing for Muslim women, combining modest fashion with modern trends. Shop stylish hijabs, abayas, and more, crafted for both comfort and beauty.Password: salam</p>
+					 <p><strong>Shopify [Password: salam]</strong></p>
+					<p>Salam Modesty offers elegant clothing for Muslim women, combining modest fashion with modern trends. Shop stylish hijabs, abayas, and more, crafted for both comfort and beauty.</p>
 				</div>
         </tr>
 	    <tr>
