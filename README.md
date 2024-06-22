@@ -20,12 +20,15 @@ Fast forward to today, I moved to the United States and graduated college, Class
                 <br>
                     <div align="center" >  
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			          <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3 logo" width="75" height="75"/>
+			          <img src="https://raw.githubusercontent.com/saliftankoano/saliftankoano/e30f8deb394351faf1f244810f828405efadc84d/assets/tailwind.svg" alt="tailwind logo" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress logo" width="75" height="75"/>
                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress logo" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/saliftankoano/saliftankoano/e30f8deb394351faf1f244810f828405efadc84d/assets/shopify.svgs" alt="Shopify logo" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/saliftankoano/saliftankoano/e30f8deb394351faf1f244810f828405efadc84d/assets/firebase.svg" alt="Firebase logo" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/saliftankoano/saliftankoano/e30f8deb394351faf1f244810f828405efadc84d/assets/seo.svg" alt="Seo logo" width="75" height="75"/>
                     </div>
 </div>
 
@@ -134,9 +137,10 @@ Fast forward to today, I moved to the United States and graduated college, Class
 <p align="center">
 	&nbsp&nbsp&nbsp
 	<a href="https://twitter.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://linkedin.com/in/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://instagram.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://www.youtube.com/c/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingphase" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salif-tankoano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin icon" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+
+<a href="https://www.youtube.com/channel/UCH-koPfGKMVgDcCWDSveLTQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube logo" height="30" width="40" /></a>
+
 </p>
 
 <hr>
