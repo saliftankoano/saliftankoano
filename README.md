@@ -64,10 +64,10 @@ Fast forward to today, I moved to the United States and graduated college, Class
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">Salam Modesty</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					<a href='https://salammodesty.myshopify.com/' target="_blank">
+						<img src="https://ik.imagekit.io/engineerbf24/portfolio/work2.jpg?updatedAt=1718221384736" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -79,16 +79,16 @@ Fast forward to today, I moved to the United States and graduated college, Class
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>Shopify</strong></p>
+					<p>Islamic Women clothing store. Password: salam</p>
 				</div>
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">Glen Studio</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    <a href='https://glen-studio.com/' target="_blank">
+                        <img src="https://ik.imagekit.io/engineerbf24/portfolio/work1.jpg?updatedAt=1718221030439" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -100,12 +100,12 @@ Fast forward to today, I moved to the United States and graduated college, Class
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>Wordpress</strong></p>
+		    <p>Built with wordpress, the websites features blogs and photos from the studio.</p>
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">Coming soon...</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
                         <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
@@ -121,7 +121,7 @@ Fast forward to today, I moved to the United States and graduated college, Class
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+		    <p>More details soon...</p>
                 </div>	
             </td>
         </tr>
