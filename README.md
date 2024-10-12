@@ -41,6 +41,26 @@ Fast forward to today, I moved to the United States and graduated college, Class
 <div align="center">
 	<table>
 		<tr>
+		<td width="50%">
+                <h3 align="center">Kazedra</h3>
+                <div align="center">  
+                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
+                        <img src="https://ik.imagekit.io/engineerbf24/kazedra-thumbnail.png?updatedAt=1728692960832" alt="kazedra" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/saliftankoano/kazedra-waitlist" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://www.kazedra.com/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>NextJs, Frame Motion, Stripe</strong></p>
+		    <p>Be among the first to try our app that provides personalized outfit suggestions based on the weather. Sign up now!</p>
+                </div>	
+            </td>
 			<td width="50%">
 				<h3 align="center">College Flow</h3>
 				<div align="center">  
@@ -63,22 +83,6 @@ Fast forward to today, I moved to the United States and graduated college, Class
 					</p>
 				</div>
 			</td>
-			<td width="50%">
-				<h3 align="center">Salam Modesty</h3>
-				<div align="center" >  
-					<a href='https://salammodesty.myshopify.com/' target="_blank">
-						<img src="https://ik.imagekit.io/engineerbf24/portfolio/work2.jpg?updatedAt=1718221384736" alt="project 2" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://salammodesty.myshopify.com/" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-					</p>
-					 <p><strong>Shopify [Password: salam]</strong></p>
-					<p>Salam Modesty offers elegant clothing for Muslim women, combining modest fashion with modern trends. Shop stylish hijabs, abayas, and more, crafted for both comfort and beauty.</p>
-				</div>
         </tr>
 	    <tr>
             <td width="50%">
@@ -99,25 +103,22 @@ Fast forward to today, I moved to the United States and graduated college, Class
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Coming soon...</h3>
-                <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
+				<h3 align="center">Salam Modesty</h3>
+				<div align="center" >  
+					<a href='https://salammodesty.myshopify.com/' target="_blank">
+						<img src="https://ik.imagekit.io/engineerbf24/portfolio/work2.jpg?updatedAt=1718221384736" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://salammodesty.myshopify.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
-                    </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>More details soon...</p>
-                </div>	
-            </td>
+					</p>
+					 <p><strong>Shopify [Password: salam]</strong></p>
+					<p>Salam Modesty offers elegant clothing for Muslim women, combining modest fashion with modern trends. Shop stylish hijabs, abayas, and more, crafted for both comfort and beauty.</p>
+				</div>
+			</td>
         </tr>
 	</table>
 </div>
