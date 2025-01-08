@@ -1,16 +1,3 @@
-<div id="" align="center">
-  <img src="https://raw.githubusercontent.com/saliftankoano/saliftankoano/main/assets/new-banner.png" alt="banner with Salif's name and flower" width="100%"/>
-</div>
-<h1 align="center">Hi 👋, I'm Salif Tankoano</h1>
-<h3 align="center">A Software developer from New York City</h3>
-<h4 align="center">At 16, while browsing my favorite blog WikiHow; I felt a sense of gratitude for the ability to use the platform to learn various subjects with the limited number of megabytes I bought on my cellphone plan. And I wondered: How are these websites built? 
-I went into a rabbit hole and found my passion.
-
-Fast forward to today, I moved to the United States and graduated college, Class of May 2024. And I’m very excited to jumpstart my career and build fantastic software with a great organization.
-
-</h4>
-
-<hr>
 
 <!-- TECHS -->
 
