@@ -136,5 +136,4 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saliftankoano&show_icons=true&locale=en" alt="Salif stats 2" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saliftankoano&theme=dark" alt="GitHub Streak" /></a></div>
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=saliftankoano&theme=dark)](https://git.io/streak-stats)<br>
