@@ -1,27 +1,4 @@
 
-<!-- TECHS -->
-
-<h2 align="center">Skills</h2>
-
-<div align="center">
-                <br>
-                    <div align="center" >  
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			          <img src="https://raw.githubusercontent.com/saliftankoano/saliftankoano/e30f8deb394351faf1f244810f828405efadc84d/assets/tailwind.svg" alt="tailwind logo" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="75" height="75"/>
-                      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
-                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress logo" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/saliftankoano/saliftankoano/341f7f1e6e11ef861f657ac56414197b2e304cfc/assets/shopify.svg" alt="Shopify logo" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/saliftankoano/saliftankoano/e30f8deb394351faf1f244810f828405efadc84d/assets/firebase.svg" alt="Firebase logo" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/saliftankoano/saliftankoano/e30f8deb394351faf1f244810f828405efadc84d/assets/seo.svg" alt="Seo logo" width="75" height="75"/>
-                    </div>
-</div>
-
-<br>
-<hr>
-
 <!-- PROJECTS -->
 
 <h2 align="center">Projects</h2>
